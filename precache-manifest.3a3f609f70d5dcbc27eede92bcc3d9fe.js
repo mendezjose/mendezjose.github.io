@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5972a30daed7fea44ca55062ef04b087",
+    "revision": "a29d30cd9a619abb411fcf6f68c11fe9",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.80201b83.chunk.css"
   },
   {
-    "revision": "dd17189605547aa41b7c",
-    "url": "/static/css/main.4b795811.chunk.css"
+    "revision": "f7effd4c4f4687fa2178",
+    "url": "/static/css/main.1a544595.chunk.css"
   },
   {
     "revision": "079647e36a532b473c54",
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.7e9b79f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd17189605547aa41b7c",
-    "url": "/static/js/main.2588db8b.chunk.js"
+    "revision": "f7effd4c4f4687fa2178",
+    "url": "/static/js/main.df615124.chunk.js"
   },
   {
     "revision": "35c6bc6620fd0e11f636",
     "url": "/static/js/runtime-main.0ed6e50a.js"
   },
   {
-    "revision": "3970502b0db1be3ab1ada0037e3e73bd",
-    "url": "/static/media/merriweather-bold-webfont.3970502b.woff"
+    "revision": "041b82db66372f4c1e9fad0459385dcf",
+    "url": "/static/media/merriweather-black-webfont.041b82db.woff"
   },
   {
-    "revision": "5a81cd830fa63bc60c6195db189bf302",
-    "url": "/static/media/merriweather-bold-webfont.5a81cd83.woff2"
+    "revision": "963d164c4825f2fc01ffa89e65168d10",
+    "url": "/static/media/merriweather-black-webfont.963d164c.woff2"
   },
   {
     "revision": "3463e331d560cc5c73ac61290981d6a6",
@@ -52,11 +52,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/merriweather-regular-webfont.ef3cd81d.woff2"
   },
   {
-    "revision": "02e3affa0a0db88650315869a278d20a",
-    "url": "/static/media/montserrat-black-webfont.02e3affa.woff"
+    "revision": "3b65af97a0366569ab72a83f743cb7fe",
+    "url": "/static/media/montserrat-extrabold-webfont.3b65af97.woff"
   },
   {
-    "revision": "9de0749c7804c519ed007f9e463d1d1e",
-    "url": "/static/media/montserrat-black-webfont.9de0749c.woff2"
+    "revision": "ce48948b3f5c88bf1d036ba57b90c646",
+    "url": "/static/media/montserrat-extrabold-webfont.ce48948b.woff2"
   }
 ]);
